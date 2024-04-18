@@ -1,0 +1,6 @@
+name	mouse-kinematics
+title	Mouse kinematics
+description	Original SIMI videos, DeepLabCut-tracked videos and csv files of body kinematics of mice walking on a beam or handling spaghetti.
+crc-project	Z02
+sample[organism]	NCBITaxon:10090
+sample[organism-part]	UBERON:0000982
