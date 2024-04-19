@@ -4,3 +4,4 @@ description	Original SIMI videos, DeepLabCut-tracked videos and csv files of bod
 crc-project	Z02
 sample[organism]	NCBITaxon:10090
 sample[organism-part]	UBERON:0000982
+keywords	mouse	motor adaptation	locomotion	gait	dexterity	body coordination	genetic mutants	aging	motor control
